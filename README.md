@@ -1,19 +1,19 @@
-# Álgebra Lineal Computacional
+# Proyectos de Álgebra Lineal Computacional
 
-Repositorio con los **trabajos prácticos de la materia Álgebra Lineal Computacional**, implementados en **Python** usando **numpy** y **pandas**.
+Este repositorio contiene los trabajos prácticos desarrollados en el marco de la materia **Álgebra Lineal Computacional** de la Facultad de Ciencias Exactas y Naturales (UBA), donde se aplican herramientas de álgebra lineal y análisis de datos utilizando Python (**NumPy**, **Pandas**) y visualización con **Matplotlib**.
 
 ---
 
-## Temas principales
+🧠 **Habilidades y herramientas aplicadas**
 
-- **Método de la potencia**: encontrar autovalores y autovectores principales.  
-- **Series de matrices**: análisis de convergencia y errores en sumas de potencias.  
-- **Matrices de Insumo-Producto**: coeficientes técnicos, simulación de shocks y análisis de producción.  
-- **Análisis en Componentes Principales (ACP)**: reducción de dimensión, clusters y visualización de patrones en datos.  
+- Cálculo de **autovalores y autovectores** mediante el método de la potencia.  
+- Análisis de **convergencia de series de matrices** y errores numéricos.  
+- Construcción y manipulación de **Matrices de Insumo-Producto** para análisis económico.  
+- Aplicación de **Análisis en Componentes Principales (ACP)** para reducción de dimensión y detección de clusters.  
+- Programación de funciones reutilizables y notebooks interactivos para simulaciones y visualización de resultados.  
+
 ---
 
-## Explora los proyectos
+💡 **Objetivo**
 
-Cada carpeta contiene notebooks, gráficos y archivos de datos que muestran **cómo aplicar estos conceptos a problemas reales y simulaciones numéricas**.
-
-
+Explorar conceptos de álgebra lineal aplicada a problemas reales, combinando teoría, simulaciones numéricas y visualización de datos. Cada carpeta contiene notebooks, gráficos y archivos de datos que permiten **experimentar con los métodos aprendidos**.
